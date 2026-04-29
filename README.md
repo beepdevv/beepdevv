@@ -1,9 +1,10 @@
 ## 💬 Discord
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1479571198714187849?hideTag=true" alt="Discord Status" />
-</p>
+All discords get terminated frequently, if you want to find me
 
+https://guns.lol/beepdev
+https://t.me/beeptalks
+https://t.me/beep_dev
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beepdevv&show_icons=true&theme=radical&hide_border=true" />
